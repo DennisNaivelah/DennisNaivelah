@@ -11,8 +11,6 @@
    ```
 
 ---
-
-## tailwind.config.js
 ```js
 module.exports = {
   content: [
