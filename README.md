@@ -1,12 +1,9 @@
-# Project Setup
-
-1. **Initialize Project (Vite + React):**
+**Initialize Project (Vite + React):**
    ```bash
-   npm create vite@latest my-app -- --template react
-   cd my-app
+   npm create vite@latest my-app -- --template react   cd my-app
    npm install
    ```
-2. **Install Tailwind + Router:**
+
    ```bash
    npm install -D tailwindcss postcss autoprefixer
    npx tailwindcss init -p
